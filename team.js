@@ -30,16 +30,6 @@ window.team = {
       }
     },
     {
-      "name": "Arnav Iyengar",
-      "group": "staff",
-      "img": "assets/img/team/arnaviyengar.png",
-      "bio": "Arnav Iyengar is a rising sophomore at Jackson-Reed High School in Washington, DC. He is a one time USAJMO and one time USAMO honorable mention. His favorite topics of math are number theory and functional equations. Aside from math, he enjoys playing the piano, playing chess, and running cross country. You can find him on discord at ai7776 and AoPS at megarnie.",
-      "socials": {
-        "discord": "https://discord.com/users/857629254569426954",
-        "aops": "https://aops.com/community/user/megarnie"
-      }
-    },
-    {
       "name": "Thanh Can",
       "group": "staff",
       "img": "assets/img/team/thanhcan.png",
